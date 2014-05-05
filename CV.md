@@ -11,7 +11,8 @@ Stefan Warman :: Curriculm Vitae
 > web services and marketing sites and ultimately to on ongoing position at Switch Concepts.
 >
 > At Switch I have worked in the majority of the technical departments contributing to core adserving products,
-> infrastructure and R&D of new products.
+> infrastructure and R&D of new products or services. While I still develop applications with web front-ends this
+> aspect is usually only the tip of the iceberg so I no longer describe myself as a web developer.
 
 Core Skills
 ------------
