@@ -11,7 +11,7 @@ Stefan Warman :: Curriculm Vitae
 > web services and marketing sites and ultimately to on ongoing position at Switch Concepts.
 >
 > At Switch I have worked in the majority of the technical departments contributing to core adserving products,
-> big data system, infrastructure and R&D of new products or services.
+> big data systems, infrastructure and R&D of new products or services.
 >
 > Programming is very much a hobby of mine in addition to a profession and I try to contribute to OSS projects
 > where possible as well as learning new languages and libraries.
