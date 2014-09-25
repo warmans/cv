@@ -22,25 +22,27 @@ Core Skills
 ### Languages
 
 * **PHP** - 5-6 years experience with an emphasis on OOP, reusable components and clean code. Some HHVM/Hack.
-* **Python** - 1+ years developing infrastructure utilities & other non web-facing applications.
-* **Javascript** - 5-6 years. Primarily front-end work using frameworks (jQuery, ExtJS). Some non-production backed JS (e.g. Node).
-* **Other** - I've written production code in other languages like as Java and Go but do so infrequently.
+* **Python** - 1+ years developing utilities and web-facing applications (e.g. Flask, CherryPy, Django)
+* **Javascript** - 5-6 years. Primarily front-end work (jQuery, Angular, ExtJS). Some backend JS (e.g. Node).
+* **Other** - I've written production code in other languages such as Java and Go but do so infrequently.
 
 ### Databases
 
 * **MySQL/MariaDB** - 5-6 years. Focusing on larger databases, scaling and performance from both a development and operations perspective.
 * **Cassandra** - 1 year. Datastax trained (administration training). Responsible for maintaining a mid size (20 node) cross DC cluster.
 * **MongoDB** - 1+ years developing a mid-sized Mongo-backed reporting application. Responsible for maintaining a relatively large 20+ node cluster.
-* **Misc Big Data** - Varied experience using other big data systems e.g. Elastic Search, Spark, Hive, Hadoop
+* **Redis** - Experienced with data structures and administration.
+* **Misc Big Data** - Varied experience using other big data systems e.g. Elastic Search, Hive, Hadoop, Riak.
 
 ### Transferable
 
 * **Linux** - Competent administering linux servers (CentOS primarily, some Debian). Preferred development environment.
 * **Testing** - Competent in automated testing of PHP and Python applications (unit/integration level). BDD trained. Experienced in Continuous Integration/Delivery.
-* **Devops** - Experienced in full stack development from carrying servers up stairs though to writing code. This includes the use of cloud services such as AWS and virtulization hypervisors.
+* **Full Stack** - Experienced in all levels of technical development from carrying servers up stairs though to writing frontend markup.
+* **DevOps** - Experence is deployment automation for production and development (Chef, Vagrant, AWS).
 * **Version control** - Lots of Git. Some SVN.
 * **Graphic Design** - Vestigial skills from working few a few years as a web designer.
-* **Markups** - Many years working with HTML, XML, Yaml and so on.
+* **Markup** - Many years working with HTML, XML, Yaml and so on.
 
 Employment History
 ------------------
