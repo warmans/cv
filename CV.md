@@ -9,7 +9,7 @@ Stefan Warman :: Curriculm Vitae
 > Dorset-based company. I worked primarily on LAMP stack applications for around 3 years but the job 
 > lacked excitement and challenge so I moved to a backup software startup writing web services and marketing sites 
 > for about a year. This was an experience but not a sustainable lifestyle so before long I moved to an ad tech
-> company called Switch Concepts where I've been for around 2 years.
+> company called Switch Concepts where I've been for around two years.
 >
 > At Switch I have worked in the majority of the technical departments contributing to core adserving products,
 > big data systems, infrastructure and R&D of new products/services. In doing so I have learned a lot about 
