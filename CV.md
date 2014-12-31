@@ -13,7 +13,10 @@ Stefan Warman :: Curriculm Vitae
 >
 > At Switch I have worked in the majority of the technical departments contributing to core adserving products,
 > big data systems, infrastructure and R&D of new products/services. In doing so I have learned a lot about 
-> the digital advertising industry and enjoy the challenges presented by data-heavy, high volume systems.
+> the digital advertising industry and enjoy the challenges presented by data-heavy, high volume systems. 
+> Many of my projects at Switch have required efficient and reliable processing of hundreds of millions of daily
+> events using a variety of big data technologies (databases, queues, filesystems etc.) as well as building user
+> interfaces capable of displaying the captured data.
 
 Core Skills
 ------------
@@ -28,20 +31,19 @@ Core Skills
 ### Databases
 
 * **MySQL/MariaDB** - 5-6 years. Focusing on larger databases, scaling and performance from both a development and operations perspective.
-* **Cassandra** - 1 year. Datastax trained (administration training). Responsible for maintaining a mid size (30 node) cross DC cluster.
+* **Cassandra 2.x** - 1 year. Datastax trained (administration training). Responsible for maintaining a mid size (30 node) cross DC cluster.
 * **MongoDB** - 1+ years developing a mid-sized Mongo-backed reporting application. Responsible for maintaining a relatively large 20+ node cluster.
 * **Redis** - Experienced with data structures and administration.
 * **Misc Big Data** - Varied experience using other big data systems e.g. Elastic Search, Hive, Hadoop, Riak.
 
 ### Transferable
 
-* **Linux** - Competent administering linux servers (CentOS primarily, some Debian). Preferred development environment.
+* **Linux** - Competent configuring linux servers (CentOS primarily, some Debian).
 * **Testing** - Competent in automated testing of PHP, Javascript and Python applications (unit/integration level). BDD trained. Experienced in Continuous Integration/Delivery.
-* **Full Stack** - Experienced in all levels of technical development from carrying servers up stairs though to writing frontend markup.
-* **DevOps** - Experence in automated provisioning and deployment for production and development (Chef, Ansible, Vagrant, AWS).
+* **DevOps** - Experience in automated provisioning and deployment for production and development (Chef, Ansible, Vagrant, AWS).
 * **Version control** - Lots of Git. Some SVN.
 * **Graphic Design** - Vestigial skills from working as a web designer.
-* **Markup** - Many years working with HTML, XML, Yaml and so on.
+* **Markup** - Many years working with HTML, XML, Yaml, CSS and so on.
 
 Employment History
 ------------------
