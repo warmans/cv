@@ -6,17 +6,18 @@ Stefan Warman :: Curriculm Vitae
 * **Github:** warmans
 
 > After graduating from Bournemouth University in 2009 I started work as a web developer in a small
-> Dorset-based company. I worked primarily on LAMP stack applications for around 3 years but the job 
-> lacked excitement and challenge so I moved to a backup software startup writing web services and marketing sites 
+> Dorset-based company. I worked primarily on LAMP stack applications for around 3 years but the job
+> lacked excitement and challenge so I moved to a backup software startup writing web services and marketing sites
 > for about a year. This was an experience but not a sustainable lifestyle so before long I moved to an ad tech
 > company called Switch Concepts where I've been for around two years.
 >
 > At Switch I have worked in the majority of the technical departments contributing to core adserving products,
-> big data systems, infrastructure and R&D of new products/services. In doing so I have learned a lot about 
-> the digital advertising industry and enjoy the challenges presented by data-heavy, high volume systems. 
+> big data systems, infrastructure and R&D of new products/services. In doing so I have learned a lot about
+> the digital advertising industry and enjoy the challenges presented by data-heavy, high volume systems.
 > Many of my projects at Switch have required efficient and reliable processing of hundreds of millions of daily
 > events using a variety of big data technologies (databases, queues, filesystems etc.) as well as building user
-> interfaces capable of displaying the captured data.
+> interfaces capable of displaying the captured data. Additionally I have completed a significant number of projects
+> related to modernizing or replacing legacy applications.
 
 Core Skills
 ------------
@@ -25,8 +26,9 @@ Core Skills
 
 * **PHP** - 5-6 years experience with an emphasis on OOP, reusable components and clean code. Some HHVM/Hack.
 * **Javascript** - 5-6 years. Primarily front-end work (jQuery, Angular, ExtJS) but increasingly back-end (Node).
+* **Go** - Less than 1 year. Go is my favorite language for side projects.
 * **Python** - 1+ years developing utilities and web-facing applications.
-* **Other** - I've written production code in other languages such as Java and Go but do so infrequently.
+* **Other** - I've written production code in other languages such as Java but do so infrequently.
 
 ### Databases
 
@@ -43,10 +45,15 @@ Core Skills
 * **DevOps** - Experience in automated provisioning and deployment for production and development (Chef, Ansible, Vagrant, AWS).
 * **Version control** - Lots of Git. Some SVN.
 * **Graphic Design** - Vestigial skills from working as a web designer.
-* **Markup** - Many years working with HTML, XML, Yaml, CSS and so on.
+* **Markup** - Many years working with HTML, XML, Yaml, CSS, LESS and so on.
 
 Employment History
 ------------------
 * **Switch Concepts Ltd.** (2012 - Present) - Senior Software Developer
 * **JDI Backup** (2012 - -2012) - Mid-level Web Developer
 * **Alacrify Ltd.** (2009 - 2012)  - Junior Web Developer/Designer
+
+Education
+------------------
+* **BSc (Hons) Degree in Computing** (2.1) from Bournemouth University
+* **GNVQ Computing and BTEC National Diploma Computing** from Wiltshire college
