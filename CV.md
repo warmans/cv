@@ -40,8 +40,9 @@ Core Skills
 
 ### Transferable
 
+* **Programming** - Knowlegable in design patterns and API design. Believer in software craftsmanship.
 * **Linux** - Competent configuring linux servers (CentOS primarily, some Debian).
-* **Testing** - Competent in automated testing of PHP, Javascript and Python applications (unit/integration level). BDD trained. Experienced in Continuous Integration/Delivery.
+* **Testing** - Experienced in automated testing and continuous integration/delivery. BDD trained. TDD trained.
 * **DevOps** - Experience in automated provisioning and deployment for production and development (Chef, Ansible, Vagrant, AWS).
 * **Version control** - Lots of Git. Some SVN.
 * **Graphic Design** - Vestigial skills from working as a web designer.
@@ -56,4 +57,4 @@ Employment History
 Education
 ------------------
 * **BSc (Hons) Degree in Computing** (2.1) from Bournemouth University
-* **GNVQ Computing and BTEC National Diploma Computing** from Wiltshire college
+* **BTEC National Diploma Computing and GNVQ Computing** from Wiltshire College
