@@ -1,7 +1,9 @@
 Stefan Warman :: Curriculm Vitae
 =============
 
-* **Location:** Hampshire, UK
+* **Date of Birth:** 1986
+* **Nationality:** British
+* **Current Location:** Hampshire, UK
 * **Email:** stefan.warman [at] gmail.com
 * **Github:** warmans
 
