@@ -21,32 +21,36 @@ Stefan Warman :: Curriculm Vitae
 > events using a variety of big data technologies (databases, queues, filesystems etc.) as well as building user
 > interfaces capable of displaying the captured data. Additionally I completed a significant number of 
 > projects related to modernizing or replacing legacy applications.
+>
+> At Travelaudience I work primarily as a back-end Go developer on core adserving products. Additionally I do a
+> substantial amount of work to maintain and improve orchestration tools (writing Ansible roles, ensuring apps are
+> packaged correctly etc). 
 
 Core Skills
 ------------
 
 ### Languages
 
-* **Go** - Less than 1 year. The language I use at work.
+* **Go** - 1+ years. The language I use at work.
+* **Javascript** - 6-7 years. Primarily front-end work (Angular, jQuery, ExtJS).
 * **PHP** - 5-6 years experience with an emphasis on OOP, reusable components and clean code. Some HHVM/Hack.
-* **Javascript** - 5-6 years. Primarily front-end work (jQuery, Angular, ExtJS) but increasingly back-end (Node).
-* **Python** - 1+ years developing utilities and web-facing applications.
-* **Other** - I've written production code in other languages such as Java but do so infrequently.
+* **Other** - I've written production code in various other languages such as Python but do so infrequently.
 
 ### Databases
 
 * **MySQL/MariaDB** - 5-6 years. Focusing on larger databases, scaling and performance from both a development and operations perspective.
+* **Postgresql** - 1+ years. Still a relative newcomer to Postgres.
+* * **Redis** - Multiple years experience with data structures and administration.
 * **Cassandra 2.x** - 1 year. Datastax trained (administration training). Responsible for maintaining a mid size (30 node) cross DC cluster.
 * **MongoDB** - 1+ years developing a mid-sized Mongo-backed reporting application. Responsible for maintaining a relatively large 20+ node cluster.
-* **Redis** - Experienced with data structures and administration.
 * **Misc Big Data** - Varied experience using other big data systems e.g. Elastic Search, Hive, Hadoop, Riak.
 
 ### Transferable
 
 * **Programming** - Knowlegable in design patterns and API design. Believer in software craftsmanship.
-* **Linux** - Competent configuring linux servers (CentOS primarily, some Debian).
+* **Linux** - Competent configuring linux servers (CentOS and Debian mainly).
 * **Testing** - Experienced in automated testing and continuous integration/delivery. BDD trained. TDD trained.
-* **DevOps** - Experience in automated provisioning and deployment for production and development (Chef, Ansible, Vagrant, AWS).
+* **DevOps** - Experience in automated provisioning and deployment for production and development (Ansible, Vagrant, Chef, AWS).
 * **Version control** - Lots of Git. Some SVN.
 * **Graphic Design** - Vestigial skills from working as a web designer.
 * **Markup** - Many years working with HTML, XML, Yaml, CSS, LESS and so on.
