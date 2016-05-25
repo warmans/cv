@@ -40,7 +40,7 @@ Core Skills
 
 * **MySQL/MariaDB** - 5-6 years. Focusing on larger databases, scaling and performance from both a development and operations perspective.
 * **Postgresql** - 1+ years. Still a relative newcomer to Postgres.
-* * **Redis** - Multiple years experience with data structures and administration.
+* **Redis** - Multiple years experience with data structures and administration.
 * **Cassandra 2.x** - 1 year. Datastax trained (administration training). Responsible for maintaining a mid size (30 node) cross DC cluster.
 * **MongoDB** - 1+ years developing a mid-sized Mongo-backed reporting application. Responsible for maintaining a relatively large 20+ node cluster.
 * **Misc Big Data** - Varied experience using other big data systems e.g. Elastic Search, Hive, Hadoop, Riak.
