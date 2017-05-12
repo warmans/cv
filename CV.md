@@ -31,7 +31,7 @@ Core Skills
 
 ### Languages
 
-* **Go** - 1+ years. The language I use at work.
+* **Go** - 2+ years. The language I use at work.
 * **Javascript** - 6-7 years. Primarily front-end work (Angular, jQuery, ExtJS).
 * **PHP** - 5-6 years experience with an emphasis on OOP, reusable components and clean code. Some HHVM/Hack.
 * **Other** - I've written production code in various other languages such as Python but do so infrequently.
@@ -53,11 +53,12 @@ Core Skills
 * **DevOps** - Experience in automated provisioning and deployment for production and development (Ansible, Vagrant, Chef, AWS).
 * **Version control** - Lots of Git. Some SVN.
 * **Graphic Design** - Vestigial skills from working as a web designer.
-* **Markup** - Many years working with HTML, XML, Yaml, CSS, LESS and so on.
+* **Markup** - Many years working with HTML, XML, Yaml, CSS, SCSS, LESS and so on.
 
 Employment History
 ------------------
-* **Travel Audience GmbH** (2015 - present) - Go Developer 
+* **Fraugster** (2017 - Present) - Full Stack Developer
+* **Travel Audience GmbH** (2015 - 2017) - Go Developer 
 * **Switch Concepts Ltd.** (2012 - 2015) - Senior Software Developer
 * **JDI Backup** (2012 - 2012) - Mid-level Web Developer
 * **Alacrify Ltd.** (2009 - 2012)  - Junior Web Developer/Designer
