@@ -31,33 +31,30 @@ Core Skills
 
 ### Languages
 
-* **Go** - 2+ years. The language I use at work.
-* **Javascript** - 6-7 years. Primarily front-end work (Angular, jQuery, ExtJS).
-* **PHP** - 5-6 years experience with an emphasis on OOP, reusable components and clean code. Some HHVM/Hack.
-* **Other** - I've written production code in various other languages such as Python but do so infrequently.
+* **Go** - 4+ years. The language I use at work.
+* **Javascript/Typescript** - 7-8 years JS + 1-2 years Typescript. Primarily front-end work (Angular).
+* **PHP** - 5-6 years experience with an emphasis on OOP, reusable components and clean code.
 
 ### Databases
 
-* **MySQL/MariaDB** - 5-6 years. Focusing on larger databases, scaling and performance from both a development and operations perspective.
-* **Postgresql** - 1+ years. Still a relative newcomer to Postgres.
+* **Postgres/MySQL/MariaDB** - 5-6 years. Focusing on larger databases, scaling and performance from both a development and operations perspective. Currently working with Postgres.
 * **Redis** - Multiple years experience with data structures and administration.
 * **Cassandra 2.x** - 1 year. Datastax trained (administration training). Responsible for maintaining a mid size (30 node) cross DC cluster.
-* **MongoDB** - 1+ years developing a mid-sized Mongo-backed reporting application. Responsible for maintaining a relatively large 20+ node cluster.
-* **Misc Big Data** - Varied experience using other big data systems e.g. Elastic Search, Hive, Hadoop, Riak.
+* **Misc Big Data** - Varied experience using other big data systems e.g. Elastic Search, MongoDB
 
 ### Transferable
 
 * **Programming** - Knowlegable in design patterns and API design. Believer in software craftsmanship.
 * **Linux** - Competent configuring linux servers (CentOS and Debian mainly).
 * **Testing** - Experienced in automated testing and continuous integration/delivery. BDD trained. TDD trained.
-* **DevOps** - Experience in automated provisioning and deployment for production and development (Ansible, Vagrant, Chef, AWS).
+* **DevOps** - Experience in automated provisioning and deployment for production and development (Kubernetes, Ansible, Vagrant, AWS).
 * **Version control** - Lots of Git. Some SVN.
 * **Graphic Design** - Vestigial skills from working as a web designer.
 * **Markup** - Many years working with HTML, XML, Yaml, CSS, SCSS, LESS and so on.
 
 Employment History
 ------------------
-* **Fraugster** (2017 - Present) - Full Stack Developer
+* **Fraugster** (2017 - Present) - Team Lead & Full Stack Developer
 * **Travel Audience GmbH** (2015 - 2017) - Go Developer 
 * **Switch Concepts Ltd.** (2012 - 2015) - Senior Software Developer
 * **JDI Backup** (2012 - 2012) - Mid-level Web Developer
