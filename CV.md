@@ -34,6 +34,8 @@ Stefan Warman :: Curriculm Vitae
 > eventually changing my role from full-stack developer to engineering manager. However, despite this role change
 > I still spend the majority of my time working directly on the project - coding, debugging, designing new features, running the 
 > scrum process and so on.
+> We have built out the backend of the application across many Go services leaning heavily on GRPC and Protobuf, Kubernetes, Docker, 
+> Postgres and Kafka while the frontend was developed in Typescript with the Angular framework.
 
 Core Skills
 ------------
