@@ -7,12 +7,14 @@ Stefan Warman :: Curriculm Vitae
 * **Email:** stefan.warman [at] gmail.com
 * **Github:** warmans
 
-> After graduating from Bournemouth University in 2009 I started work as a web developer in a small
+> **tl;dr:** After graduating from Bournemouth University in 2009 I started work as a web developer in a small
 > Dorset-based company. I worked primarily on LAMP stack applications for around 3 years but the job
 > lacked excitement and challenge so I moved to a backup software startup writing web services and marketing sites
 > for about a year. This was an experience but not a sustainable lifestyle so before long I moved to an ad tech 
 > (SSP) company called Switch Concepts. Switch was a relatively enjoyable place to work but I didn't see much 
-> of a future there so I decided to try something new. At that point (mid 2015) I moved to Berlin to work on the demand side for a DSP called Travel Audience.
+> of a future there and wanted to move away from PHP so at that point (mid 2015) I switch to Go and moved to Berlin to work on for a DSP called Travel Audience. After a year or so at Travel Audience I decided I didn't really enjoy the travel industry and wanted a change from adtech so I moved to fintech company Fraugster to bootstrap their front-end application and have been there since.
+>
+> **In Detail:**
 >
 > At Switch I worked in the majority of the technical departments contributing to core adserving products,
 > big data systems, infrastructure and R&D of new products/services. In doing so I have learned a lot about
@@ -25,6 +27,13 @@ Stefan Warman :: Curriculm Vitae
 > At Travelaudience I work primarily as a back-end Go developer on core adserving products. Additionally I do a
 > substantial amount of work to maintain and improve orchestration tools (writing Ansible roles, ensuring apps are
 > packaged correctly etc). 
+>
+> At Fraugster I was the first member of a new team responsibile for building out the frontend, backend and infrastructure
+> for a new frontend project. The aim was to give customers analytics and configuration options beyond a simple API.
+> Over the course of 3+ years I have contined to develop this project as well as taking on more management responsibilities,
+> eventually changing my role from full-stack developer to engineering manager. However, despite this role change
+> I still spend the majority of my time working directly on the project - coding, debugging, designing new features, running the 
+> scrum process and so on.
 
 Core Skills
 ------------
@@ -35,12 +44,13 @@ Core Skills
 * **Javascript/Typescript** - 7-8 years JS + 1-2 years Typescript. Primarily front-end work (Angular).
 * **PHP** - 5-6 years experience with an emphasis on OOP, reusable components and clean code.
 
-### Databases
+### Systems
 
-* **Postgres/MySQL/MariaDB** - 5-6 years. Focusing on larger databases, scaling and performance from both a development and operations perspective. Currently working with Postgres.
-* **Redis** - Multiple years experience with data structures and administration.
-* **Cassandra 2.x** - 1 year. Datastax trained (administration training). Responsible for maintaining a mid size (30 node) cross DC cluster.
-* **Misc Big Data** - Varied experience using other big data systems e.g. Elastic Search, MongoDB
+* **Relational DBs** (Postgres/MySQL/MariaDB) - 9-10 years. Focusing on larger databases, scaling and performance from both a development and operations perspective. Currently working with Postgres.
+* **Queues** (Kafka, others) - Currently using Kafka for most queue needs, but have used many others in the past.
+* **Search** (Elasticsearch) - Implementing search functionality for various types of data for the last year or so.
+* **Caches** (Redis, Memcache etc.) - Multiple years experience with various key-value type caches.
+* **Big Data** (Cassandra 2.x, others) - Datastax trained (cassandara administration training). Responsible for maintaining a mid size (30 node) cross DC cassandra cluster. 
 
 ### Transferable
 
@@ -54,7 +64,7 @@ Core Skills
 
 Employment History
 ------------------
-* **Fraugster** (2017 - Present) - Team Lead & Full Stack Developer
+* **Fraugster** (2017 - Present) - Engineering Manager & Full Stack Developer
 * **Travel Audience GmbH** (2015 - 2017) - Go Developer 
 * **Switch Concepts Ltd.** (2012 - 2015) - Senior Software Developer
 * **JDI Backup** (2012 - 2012) - Mid-level Web Developer
