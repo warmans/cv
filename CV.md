@@ -7,7 +7,7 @@ Stefan Warman :: Curriculm Vitae
 * **Email:** stefan.warman [at] gmail.com
 * **Github:** warmans
 
-> **tl;dr:** After graduating from University in 2009 I worked in web development for several years, eventually moving to backend/full-stack roles (ad-tech). For the past 6 years I have been developing a large full stack application with Go and Angular.
+> **tl;dr:** After graduating from University in 2009 I worked in web development for several years, eventually moving to backend/full-stack roles (ad-tech). For the past 6 years I have been developing a large full stack fin-tech application with Go and Angular.
 >
 > **In Detail:**
 >
