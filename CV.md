@@ -7,7 +7,8 @@ Stefan Warman :: Curriculm Vitae
 * **Email:** stefan.warman [at] gmail.com
 * **Github:** warmans
 
-**tl;dr:** *After graduating from University in 2009 I worked in web development for several years, eventually moving to backend/full-stack roles (ad-tech). For the past 6 years I have been developing a large full stack fin-tech application with Go and Angular.*
+**tl;dr:** *After graduating from University in 2009 I worked in web development for several years, eventually moving to backend/full-stack roles (ad-tech). For the past
+6 years I have been leading development of a large full-stack fin-tech application with Go and Angular.*
 
 **In Detail:**
 
@@ -47,11 +48,12 @@ Core Skills
 * **Queues** (Kafka, others) - Currently using Kafka for most queue needs, but have used many others in the past.
 * **Search** (Elasticsearch) - Implementing search functionality for various types of data for the last year or so.
 * **Caches** (Redis, Memcache etc.) - Multiple years experience with various key-value type caches.
-* **Big Data** (Cassandra 2.x, others) - Datastax trained (cassandara administration training). Responsible for maintaining a mid size (30 node) cross DC cassandra cluster. 
+* **Big Data** (Cassandra 2.x, others) - Datastax trained (cassandara administration training). Responsible for maintaining a mid-size (30 node) cross DC cassandra cluster.  Although I haven't touched it for years.
 
 ### Transferable
 
-* **Programming** - Knowlegable in design patterns and API design. Believer in software craftsmanship.
+* **Programming** - Knowledgeable in design patterns and API design. Believer in software craftsmanship.
+* **CI/CD** - Experiencing building pipelines for testing and delivery of software. Mostly Gitlab CI.
 * **Linux** - Competent configuring linux servers (CentOS and Debian mainly).
 * **Testing** - Experienced in automated testing and continuous integration/delivery. BDD trained. TDD trained.
 * **DevOps** - Experience in automated provisioning and deployment for production and development (Kubernetes, Ansible, Vagrant, AWS).
@@ -73,6 +75,9 @@ Core Skills
 
 ### Personal
 
-Outside of work I love to write music and build things (software and physical). I have been into 3d printing for several years and have recently started working with CNC machines. I also enjoy electrical engineering, although have a long road ahead in this area. Finally I run a website that facilitates collaborative audio transcription for tin-pot radio station that stopped broadcasting 20 years ago.
+Outside of work I love to write music and build things (software and physical). I have been into 3d printing for several years 
+and have recently started working with CNC machines. I also enjoy electrical engineering, although I have a long road ahead in this 
+area. As a side-project I run a website that facilitates collaborative audio transcription for tin-pot radio station that stopped broadcasting 20 years ago.
+This allows people to submit transcriptions in return for charitable donations to their chosen cause.
 
 I just recently relocated back to the UK after spending 7 years living in Berlin, Germany. Berlin continues to be one of my favorite places in the world.
