@@ -1,0 +1,8 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'Stefan Warman CV'
+theme = 'researcher'
+
+[params]
+  [params.style]  # appearance options (can be omitted)
+    pageWidth = "1200px"

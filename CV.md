@@ -7,28 +7,30 @@ Stefan Warman :: Curriculm Vitae
 * **Email:** stefan.warman [at] gmail.com
 * **Github:** warmans
 
-> **tl;dr:** After graduating from University in 2009 I worked in web development for several years, eventually moving to backend/full-stack roles (ad-tech). For the past 6 years I have been developing a large full stack fin-tech application with Go and Angular.
->
+**tl;dr:** *After graduating from University in 2009 I worked in web development for several years, eventually moving to backend/full-stack roles (ad-tech). For the past 6 years I have been developing a large full stack fin-tech application with Go and Angular.*
+
 **In Detail:**
 
-> From most recent to least: 
+*From most recent to least:* 
 
-> At Fraugster I was the first member of a new team responsibile for building out the frontend (Typescript/Angular), backend (Go) and
-> infrastructure (K8s) for a new frontend project. The objective was to give customers analytics and configuration options beyond a simple API.
-> Over the course of 6+ years I have contined to develop this project as well as taking on more management responsibilities,
-> eventually changing my role from full-stack developer to engineering manager. However, despite this role change
-> I still spend the majority of my time working directly on the project - coding, debugging, designing new features, running the 
-> scrum process and so on. After working as engineering manager for a few years I wanted to move back to development full
-> time and changed my position to a purely technical leadership role.
->
-> At Travelaudience I work primarily as a back-end Go developer on core adserving products. Additionally I do a
-> substantial amount of work to maintain and improve orchestration tools (writing Ansible roles, ensuring apps are
-> packaged correctly etc). However I didn't stay in this role very long as I didn't find the travel industry to 
-> be particularly inspiring.
->
-> At Switch I worked in the majority of the technical departments contributing to core adserving products,
-> big data systems, infrastructure and R&D of new products/services. In doing so I have learned a lot about
-> the digital advertising industry and enjoy the challenges presented by data-heavy, high volume systems.
+*At Fraugster I was the first member of a new team responsible for building out the frontend (Typescript/Angular), backend (Go) and
+infrastructure (K8s) for a new frontend project. The objective was to give customers analytics and configuration options beyond a simple API.
+This meant creating systems for processing time series data, raw data storage/life-cycle management, tools for writing business rules
+and simulating them across historic data, user management and so on.*
+*Over the course of 6+ years I have continued to develop this project as well as taking on more management responsibilities,
+eventually changing my role from full-stack developer to engineering manager. However, despite this role change
+I still spent the majority of my time working directly on the project - coding, debugging, designing new features, running the 
+scrum process and so on. After a few years in this role I wanted to move back to development full
+time and changed my position to one with technical leadership aspects but mostly development responsibilities.*
+
+*At Travelaudience I work primarily as a back-end Go developer on core adserving products. Additionally, I do a
+substantial amount of work to maintain and improve orchestration tools (writing Ansible roles, ensuring apps are
+packaged correctly etc). However, I didn't stay in this role very long as I didn't find the travel industry to 
+be particularly inspiring.*
+
+*At Switch I worked in the majority of the technical departments contributing to core adserving products,
+big data systems, infrastructure and R&D of new products/services. In doing so I have learned a lot about
+the digital advertising industry and enjoy the challenges presented by data-heavy, high volume systems.*
 
 Core Skills
 ------------
