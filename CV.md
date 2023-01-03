@@ -9,8 +9,8 @@ Stefan Warman :: Curriculm Vitae
 
 > **tl;dr:** After graduating from University in 2009 I worked in web development for several years, eventually moving to backend/full-stack roles (ad-tech). For the past 6 years I have been developing a large full stack fin-tech application with Go and Angular.
 >
-> **In Detail:**
->
+**In Detail:**
+
 > From most recent to least: 
 
 > At Fraugster I was the first member of a new team responsibile for building out the frontend (Typescript/Angular), backend (Go) and
