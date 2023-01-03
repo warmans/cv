@@ -71,4 +71,6 @@ Core Skills
 
 ### Personal
 
-Outside of work I love to write music and build things (software and physical). I have been into 3d printing for several years and have recently started working with CNC machines. I also enjoy electrical engineering, although have a long road ahead to get to competence in this area. Finally I run a website that facilitates collaborative audio transcription.
+Outside of work I love to write music and build things (software and physical). I have been into 3d printing for several years and have recently started working with CNC machines. I also enjoy electrical engineering, although have a long road ahead in this area. Finally I run a website that facilitates collaborative audio transcription for tin-pot radio station that stopped broadcasting 20 years ago.
+
+I just recently relocated back to the UK after spending 7 years living in Berlin, Germany. Berlin continues to be one of my favorite places in the world.
