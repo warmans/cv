@@ -58,7 +58,7 @@ Core Skills
 
 ### Employment History
 
-* **Fraugster** (2017 - Present) - Engineering Manager & Full Stack Developer
+* **Fraugster** (2017 - Present) - Tech Lead & Full Stack Developer
 * **Travel Audience GmbH** (2015 - 2017) - Go Developer 
 * **Switch Concepts Ltd.** (2012 - 2015) - Senior Software Developer
 * **JDI Backup** (2012 - 2012) - Mid-level Web Developer
