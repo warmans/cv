@@ -2,3 +2,9 @@ github
 https
 ssh
 ubuntu
+warmans
+Fraugster
+http
+Github
+gmail
+stefan

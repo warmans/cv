@@ -1,4 +1,4 @@
-Stefan Warman :: Curriculm Vitae
+Stefan Warman :: curriculum Vitae
 =====================================
 
 * **Date of Birth:** 1986
@@ -7,14 +7,14 @@ Stefan Warman :: Curriculm Vitae
 * **Email:** stefan.warman [at] gmail.com
 * **Github:** warmans | http://warmans.github.io/cv/
 
-**tl;dr:** *After graduating from University in 2009 I worked in web development for several years, eventually moving to backend/full-stack roles (ad-tech). For the past
+**tl;dr:** *After graduating from University in 2009 I worked in web development for several years, eventually moving to back-end/full-stack roles (ad-tech). For the past
 6 years I have been leading development of a large full-stack fin-tech application with Go and Angular.*
 
 **In Detail:**
 
 *From most recent to least:* 
 
-*At Fraugster I was the first member of a new team responsible for building out the frontend (Typescript/Angular), backend (Go) and
+*At Fraugster I was the first member of a new team responsible for building out the front-end (Typescript/Angular), back-end (Go) and
 infrastructure (K8s) for our "dashboard" project. The objective was to give customers analytics and configuration tools to introspect 
 and configure their integration.
 This meant creating systems for processing time-series data, raw data storage/life-cycle management, tools for writing business rules
@@ -25,7 +25,7 @@ I still spent the majority of my time working directly on the project - coding, 
 scrum process and so on. After a few years in this role I wanted to move back to development full
 time and changed my position to one with technical leadership aspects but mostly development responsibilities.*
 
-*At Travelaudience (Amadeus) I work primarily as a back-end Go developer on core adserving products. Additionally, I did a
+*At Travelaudience (Amadeus) I work primarily as a back-end Go developer on core ad-serving products. Additionally, I did a
 substantial amount of work to maintain and improve orchestration tools (writing Ansible roles, ensuring apps are
 packaged correctly etc). However, I didn't stay in this role very long as I didn't find the travel industry to 
 be particularly inspiring.*
