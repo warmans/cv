@@ -17,7 +17,7 @@ Stefan Warman :: Curriculm Vitae
 *At Fraugster I was the first member of a new team responsible for building out the frontend (Typescript/Angular), backend (Go) and
 infrastructure (K8s) for our "dashboard" project. The objective was to give customers analytics and configuration tools to introspect 
 and configure their integration.
-This meant creating systems for processing time series data, raw data storage/life-cycle management, tools for writing business rules
+This meant creating systems for processing time-series data, raw data storage/life-cycle management, tools for writing business rules
 and simulating them across historic data, user management and so on.*
 *Over the course of 6+ years I have continued to develop this project as well as taking on more management responsibilities,
 eventually changing my role from full-stack developer to engineering manager. However, despite this role change
@@ -63,10 +63,10 @@ Core Skills
 
 ### Employment History
 
-* **Fraugster** (2017 - Present) - Tech Lead & Full Stack Developer
+* **Fraugster GmbH** (2017 - Present) - Tech Lead & Full Stack Developer
 * **Travel Audience GmbH** (2015 - 2017) - Go Developer 
 * **Switch Concepts Ltd.** (2012 - 2015) - Senior Software Developer
-* **JDI Backup** (2012 - 2012) - Mid-level Web Developer
+* **JDI Backup Ltd.** (2012 - 2012) - Mid-level Web Developer
 * **Alacrify Ltd.** (2009 - 2012)  - Junior Web Developer/Designer
 
 ### Education
