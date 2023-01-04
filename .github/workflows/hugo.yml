@@ -26,9 +26,38 @@ defaults:
     shell: bash
 
 jobs:
+  # spell check
+  spelling:
+    name: Check Spelling
+    permissions:
+      contents: read
+      pull-requests: read
+      actions: read
+      security-events: write
+    outputs:
+      followup: ${{ steps.spelling.outputs.followup }}
+    runs-on: ubuntu-latest
+    if: "contains(github.event_name, 'pull_request') || github.event_name == 'push'"
+    concurrency:
+      group: spelling-${{ github.event.pull_request.number || github.ref }}
+      cancel-in-progress: true
+    steps:
+      - name: check-spelling
+        id: spelling
+        uses: check-spelling/check-spelling@main
+        with:
+          checkout: true
+          check_file_names: 1
+          spell_check_this: check-spelling/spell-check-this@prerelease
+          post_comment: 0
+          use_magic_file: 1
+          experimental_apply_changes_via_bot: 0
+          use_sarif: 0
+          extra_dictionary_limit: 10
   # Build job
   build:
     runs-on: ubuntu-latest
+    needs: spelling
     env:
       HUGO_VERSION: 0.109.0
     steps:
