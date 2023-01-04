@@ -57,9 +57,9 @@ the digital advertising industry and enjoy the challenges presented by data-heav
 * **Testing** - Experienced in automated testing and continuous integration/delivery on the front and back-end. BDD trained. TDD trained.
 * **DevOps** - Experience in automated provisioning and deployment for production and development (Kubernetes, Ansible, Vagrant, AWS).
 * **Monitoring** - Broad experience integrating systems such as Prometheus, Jaeger, Grafana and Sentry.
-* **Markup** - Many years working with HTML, XML, Yaml, CSS, SCSS, LESS and so on.
+* **Markup** - Many years working with HTML, XML, YAML, CSS, SCSS and so on.
 * **Version control** - Lots of Git. Some SVN.
-* **Linux** - Competent configuring linux servers (CentOS and Debian mainly).
+* **Linux** - Competent configuring Linux servers (Debian and CentOS mainly).
 
 ## Employment History
 
