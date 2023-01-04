@@ -1,5 +1,5 @@
 Stefan Warman :: Curriculm Vitae
-=============
+=====================================
 
 * **Date of Birth:** 1986
 * **Nationality:** British
@@ -15,7 +15,8 @@ Stefan Warman :: Curriculm Vitae
 *From most recent to least:* 
 
 *At Fraugster I was the first member of a new team responsible for building out the frontend (Typescript/Angular), backend (Go) and
-infrastructure (K8s) for a new frontend project. The objective was to give customers analytics and configuration options beyond a simple API.
+infrastructure (K8s) for our "dashboard" project. The objective was to give customers analytics and configuration tools to introspect 
+and configure their integration.
 This meant creating systems for processing time series data, raw data storage/life-cycle management, tools for writing business rules
 and simulating them across historic data, user management and so on.*
 *Over the course of 6+ years I have continued to develop this project as well as taking on more management responsibilities,
@@ -24,7 +25,7 @@ I still spent the majority of my time working directly on the project - coding, 
 scrum process and so on. After a few years in this role I wanted to move back to development full
 time and changed my position to one with technical leadership aspects but mostly development responsibilities.*
 
-*At Travelaudience I work primarily as a back-end Go developer on core adserving products. Additionally, I do a
+*At Travelaudience I work primarily as a back-end Go developer on core adserving products. Additionally, I did a
 substantial amount of work to maintain and improve orchestration tools (writing Ansible roles, ensuring apps are
 packaged correctly etc). However, I didn't stay in this role very long as I didn't find the travel industry to 
 be particularly inspiring.*
@@ -46,19 +47,19 @@ Core Skills
 
 * **Relational DBs** (Postgres/MySQL/MariaDB) - 10+ years. Focusing on larger databases, scaling and performance from both a development and operations perspective. Currently working with Postgres.
 * **Queues** (Kafka, others) - Currently using Kafka for most queue needs, but have used many others in the past.
-* **Search** (Elasticsearch) - Implementing search functionality for various types of data for the last year or so.
+* **Search** (Elasticsearch) - Implementing elaborate search functionality for simulating business rules across large datasets.
 * **Caches** (Redis, Memcache etc.) - Multiple years experience with various key-value type caches.
-* **Big Data** (Cassandra 2.x, others) - Datastax trained (cassandara administration training). Responsible for maintaining a mid-size (30 node) cross DC cassandra cluster.  Although I haven't touched it for years.
+* **Big Data** (Cassandra 2.x, others) - Datastax trained (Cassandara administration training), although I haven't touched it for years.
 
 ### Transferable
 
 * **Programming** - Knowledgeable in design patterns and API design. Believer in software craftsmanship.
-* **CI/CD** - Experiencing building pipelines for testing and delivery of software. Mostly Gitlab CI.
-* **Linux** - Competent configuring linux servers (CentOS and Debian mainly).
+* **CI/CD** - Experienced building pipelines for testing and delivery of software. Mostly Gitlab CI.
 * **Testing** - Experienced in automated testing and continuous integration/delivery. BDD trained. TDD trained.
 * **DevOps** - Experience in automated provisioning and deployment for production and development (Kubernetes, Ansible, Vagrant, AWS).
 * **Version control** - Lots of Git. Some SVN.
 * **Markup** - Many years working with HTML, XML, Yaml, CSS, SCSS, LESS and so on.
+* **Linux** - Competent configuring linux servers (CentOS and Debian mainly).
 
 ### Employment History
 
@@ -80,4 +81,5 @@ and have recently started working with CNC machines. I also enjoy electrical eng
 area. As a side-project I run a website that facilitates collaborative audio transcription for tin-pot radio station that stopped broadcasting 20 years ago.
 This allows people to submit transcriptions in return for charitable donations to their chosen cause.
 
-I just recently relocated back to the UK after spending 7 years living in Berlin, Germany. Berlin continues to be one of my favorite places in the world.
+I just recently relocated back to the UK after spending 7 years living in Berlin, Germany. Berlin continues to be
+one of my favorite places in the world.
