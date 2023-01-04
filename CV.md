@@ -14,7 +14,7 @@ Stefan Warman :: curriculum Vitae
 
 *From most recent to least:* 
 
-*At Fraugster I was the first member of a new team responsible for building out the front-end (Typescript/Angular), back-end (Go) and
+*At Fraugster I was the first member of a new team responsible for building out the front-end (TypeScript/Angular), back-end (Go) and
 infrastructure (K8s) for our "dashboard" project. The objective was to give customers analytics and configuration tools to introspect 
 and configure their integration.
 This meant creating systems for processing time-series data, raw data storage/life-cycle management, tools for writing business rules
@@ -39,7 +39,7 @@ the digital advertising industry and enjoy the challenges presented by data-heav
 ### Languages
 
 * **Go** - 7+ years. The main language I use at work and for personal projects.
-* **JavaScript/TypeScript** - 10+ years JS 6+ years Typescript. Primarily front-end work (Angular).
+* **JavaScript/TypeScript** - 10+ years JS 6+ years TypeScript. Primarily front-end work (Angular).
 * **PHP** - 5-6 years experience with an emphasis on OOP, reusable components and clean code. I'm no longer interested in developing with PHP.
 
 ### Systems
