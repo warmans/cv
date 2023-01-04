@@ -78,9 +78,10 @@ the digital advertising industry and enjoy the challenges presented by data-heav
 
 Outside of work I love to write music and build things (software and physical). I have been into 3d printing and CAD for several years
 and have recently started learning CAM with CNC machines. I also enjoy electrical engineering, although I have a long road ahead in this
-area. As a side-project I run a website that facilitates collaborative audio transcription for tin-pot radio station that stopped broadcasting 20 years ago.
-This allows people to search and submit transcriptions in return for charitable donations to their chosen cause, and is considered an essential service 
-for literally almost dozens of people.
+area. As a side-project I run a website that facilitates collaborative audio transcription for a tin-pot radio station that
+stopped broadcasting 20 years ago. This allows people to search and submit transcriptions in return for charitable donations
+to their chosen cause, and is considered an essential service for literally almost dozens of people.
 
 I just recently relocated back to the UK after spending 7 years living in Berlin, Germany. Berlin continues to be
 one of my favorite places in the world.
+
