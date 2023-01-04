@@ -5,6 +5,12 @@ ubuntu
 warmans
 Fraugster
 http
-Github
 gmail
 stefan
+PHP
+Postgres
+Elasticsearch
+Memcache
+MySQL
+MariaDB
+Ansible

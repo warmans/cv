@@ -5,7 +5,7 @@ Stefan Warman :: curriculum Vitae
 * **Nationality:** British
 * **Current Location:** Bristol, UK
 * **Email:** stefan.warman [at] gmail.com
-* **Github:** warmans | http://warmans.github.io/cv/
+* **GitHub:** warmans | http://warmans.github.io/cv/
 
 **tl;dr:** *After graduating from University in 2009 I worked in web development for several years, eventually moving to back-end/full-stack roles (ad-tech). For the past
 6 years I have been leading development of a large full-stack fin-tech application with Go and Angular.*
@@ -26,7 +26,7 @@ scrum process and so on. After a few years in this role I wanted to move back to
 time and changed my position to one with technical leadership aspects but mostly development responsibilities.*
 
 *At Travelaudience (Amadeus) I work primarily as a back-end Go developer on core ad-serving products. Additionally, I did a
-substantial amount of work to maintain and improve orchestration tools (writing Ansible roles, ensuring apps are
+substantial amount of work to maintain and improve orchestration tools (writing Ansible roles, ensuring applications were
 packaged correctly etc). However, I didn't stay in this role very long as I didn't find the travel industry to 
 be particularly inspiring.*
 
@@ -39,12 +39,12 @@ the digital advertising industry and enjoy the challenges presented by data-heav
 ### Languages
 
 * **Go** - 7+ years. The main language I use at work and for personal projects.
-* **Javascript/Typescript** - 10+ years JS 6+ years Typescript. Primarily front-end work (Angular).
+* **JavaScript/TypeScript** - 10+ years JS 6+ years Typescript. Primarily front-end work (Angular).
 * **PHP** - 5-6 years experience with an emphasis on OOP, reusable components and clean code. I'm no longer interested in developing with PHP.
 
 ### Systems
 
-* **Relational DBs** (Postgres/MySQL/MariaDB) - 10+ years. Focusing on larger databases, scaling and performance from both a development and operations perspective. Currently working with Postgres.
+* **Relational Databases** (Postgres/MySQL/MariaDB) - 10+ years. Focusing on larger databases, scaling and performance from both a development and operations perspective. Currently working with Postgres.
 * **Queues** (Kafka, others) - Currently using Kafka for most queue needs, but have used many others in the past.
 * **Search** (Elasticsearch) - Implementing elaborate search functionality for simulating business rules across large datasets as well as more standard search applications.
 * **Caches** (Redis, Memcache etc.) - Multiple years experience with various key-value type caches.
@@ -53,7 +53,7 @@ the digital advertising industry and enjoy the challenges presented by data-heav
 ### Transferable
 
 * **Programming** - Knowledgeable in design patterns and API design. Believer in software craftsmanship.
-* **CI/CD** - Experienced building pipelines for testing and delivery of software. Mostly Gitlab CI.
+* **CI/CD** - Experienced building pipelines for testing and delivery of software. Mostly GitLab CI.
 * **Testing** - Experienced in automated testing and continuous integration/delivery on the front and back-end. BDD trained. TDD trained.
 * **DevOps** - Experience in automated provisioning and deployment for production and development (Kubernetes, Ansible, Vagrant, AWS).
 * **Monitoring** - Broad experience integrating systems such as Prometheus, Jaeger, Grafana and Sentry.
