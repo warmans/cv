@@ -5,7 +5,7 @@ Stefan Warman :: Curriculm Vitae
 * **Nationality:** British
 * **Current Location:** Bristol, UK
 * **Email:** stefan.warman [at] gmail.com
-* **Github:** warmans
+* **Github:** warmans | http://warmans.github.io/cv/
 
 **tl;dr:** *After graduating from University in 2009 I worked in web development for several years, eventually moving to backend/full-stack roles (ad-tech). For the past
 6 years I have been leading development of a large full-stack fin-tech application with Go and Angular.*
