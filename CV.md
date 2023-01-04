@@ -25,21 +25,20 @@ I still spent the majority of my time working directly on the project - coding, 
 scrum process and so on. After a few years in this role I wanted to move back to development full
 time and changed my position to one with technical leadership aspects but mostly development responsibilities.*
 
-*At Travelaudience I work primarily as a back-end Go developer on core adserving products. Additionally, I did a
+*At Travelaudience (Amadeus) I work primarily as a back-end Go developer on core adserving products. Additionally, I did a
 substantial amount of work to maintain and improve orchestration tools (writing Ansible roles, ensuring apps are
 packaged correctly etc). However, I didn't stay in this role very long as I didn't find the travel industry to 
 be particularly inspiring.*
 
-*At Switch I worked in the majority of the technical departments contributing to core adserving products,
+*At Switch I worked in the majority of the technical departments contributing to core ad-serving products,
 big data systems, infrastructure and R&D of new products/services. In doing so I have learned a lot about
 the digital advertising industry and enjoy the challenges presented by data-heavy, high volume systems.*
 
-Core Skills
-------------
+## Core Skills
 
 ### Languages
 
-* **Go** - 7+ years. The language I use at work.
+* **Go** - 7+ years. The main language I use at work and for personal projects.
 * **Javascript/Typescript** - 10+ years JS 6+ years Typescript. Primarily front-end work (Angular).
 * **PHP** - 5-6 years experience with an emphasis on OOP, reusable components and clean code. I'm no longer interested in developing with PHP.
 
@@ -47,7 +46,7 @@ Core Skills
 
 * **Relational DBs** (Postgres/MySQL/MariaDB) - 10+ years. Focusing on larger databases, scaling and performance from both a development and operations perspective. Currently working with Postgres.
 * **Queues** (Kafka, others) - Currently using Kafka for most queue needs, but have used many others in the past.
-* **Search** (Elasticsearch) - Implementing elaborate search functionality for simulating business rules across large datasets.
+* **Search** (Elasticsearch) - Implementing elaborate search functionality for simulating business rules across large datasets as well as more standard search applications.
 * **Caches** (Redis, Memcache etc.) - Multiple years experience with various key-value type caches.
 * **Big Data** (Cassandra 2.x, others) - Datastax trained (Cassandara administration training), although I haven't touched it for years.
 
@@ -55,13 +54,14 @@ Core Skills
 
 * **Programming** - Knowledgeable in design patterns and API design. Believer in software craftsmanship.
 * **CI/CD** - Experienced building pipelines for testing and delivery of software. Mostly Gitlab CI.
-* **Testing** - Experienced in automated testing and continuous integration/delivery. BDD trained. TDD trained.
+* **Testing** - Experienced in automated testing and continuous integration/delivery on the front and back-end. BDD trained. TDD trained.
 * **DevOps** - Experience in automated provisioning and deployment for production and development (Kubernetes, Ansible, Vagrant, AWS).
-* **Version control** - Lots of Git. Some SVN.
+* **Monitoring** - Broad experience integrating systems such as Prometheus, Jaeger, Grafana and Sentry.
 * **Markup** - Many years working with HTML, XML, Yaml, CSS, SCSS, LESS and so on.
+* **Version control** - Lots of Git. Some SVN.
 * **Linux** - Competent configuring linux servers (CentOS and Debian mainly).
 
-### Employment History
+## Employment History
 
 * **Fraugster GmbH** (2017 - Present) - Tech Lead & Full Stack Developer
 * **Travel Audience GmbH** (2015 - 2017) - Go Developer 
@@ -69,17 +69,18 @@ Core Skills
 * **JDI Backup Ltd.** (2012 - 2012) - Mid-level Web Developer
 * **Alacrify Ltd.** (2009 - 2012)  - Junior Web Developer/Designer
 
-### Education
+## Education
 
 * **BSc (Hons) Degree in Computing** (2.1) from Bournemouth University
 * **BTEC National Diploma Computing and GNVQ Computing** from Wiltshire College
 
-### Personal
+## Personal
 
-Outside of work I love to write music and build things (software and physical). I have been into 3d printing for several years 
-and have recently started working with CNC machines. I also enjoy electrical engineering, although I have a long road ahead in this 
+Outside of work I love to write music and build things (software and physical). I have been into 3d printing and CAD for several years
+and have recently started learning CAM with CNC machines. I also enjoy electrical engineering, although I have a long road ahead in this
 area. As a side-project I run a website that facilitates collaborative audio transcription for tin-pot radio station that stopped broadcasting 20 years ago.
-This allows people to submit transcriptions in return for charitable donations to their chosen cause.
+This allows people to search and submit transcriptions in return for charitable donations to their chosen cause, and is considered an essential service 
+for literally almost dozens of people.
 
 I just recently relocated back to the UK after spending 7 years living in Berlin, Germany. Berlin continues to be
 one of my favorite places in the world.
