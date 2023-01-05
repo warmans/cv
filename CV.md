@@ -1,4 +1,4 @@
-Stefan Warman :: curriculum Vitae
+Stefan Warman :: Curriculum Vitae
 =====================================
 
 * **Date of Birth:** 1986
