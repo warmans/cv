@@ -34,3 +34,5 @@ BTEC
 GNVQ
 website
 Debian
+Adtech
+Fintech
