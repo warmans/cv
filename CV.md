@@ -12,7 +12,9 @@ Stefan Warman :: Curriculum Vitae
 
 **In Detail:**
 
-*From most recent to least:* 
+*Most Recent positions:* 
+
+*At FORM3 I work on european payment service gateways. My Role is primarily back-end development in Go, including general feature development and maintenance. Having been at the company a relatively short time my responsibilities are not very extensive at the time of writing.*
 
 *At Fraugster I was the first member of a new team responsible for building out the front-end (TypeScript/Angular), back-end (Go) and
 infrastructure (K8s) for our "dashboard" project. The objective was to give customers analytics and configuration tools to introspect 
@@ -29,10 +31,6 @@ time and changed my position to one with technical leadership aspects but mostly
 substantial amount of work to maintain and improve orchestration tools (writing Ansible roles, ensuring applications were
 packaged correctly etc). However, I didn't stay in this role very long as I didn't find the travel industry to 
 be particularly inspiring.*
-
-*At Switch I worked in the majority of the technical departments contributing to core ad-serving products,
-big data systems, infrastructure and R&D of new products/services. In doing so I have learned a lot about
-the digital advertising industry and enjoy the challenges presented by data-heavy, high volume systems.*
 
 ## Core Skills
 
@@ -63,11 +61,12 @@ the digital advertising industry and enjoy the challenges presented by data-heav
 
 ## Employment History
 
-* **Fraugster GmbH** (2017 - Present) - Tech Lead & Full Stack Developer
-* **Travel Audience GmbH** (2015 - 2017) - Go Developer 
-* **Switch Concepts Ltd.** (2012 - 2015) - Senior Software Developer
-* **JDI Backup Ltd.** (2012 - 2012) - Mid-level Web Developer
-* **Alacrify Ltd.** (2009 - 2012)  - Junior Web Developer/Designer
+* **FORM3 Ltd.** (2023 - Present) - Fintech - Senior Software Engineer
+* **Fraugster GmbH** (2017 - 2023) - Fintech - Tech Lead & Full Stack Developer
+* **Travel Audience GmbH** (2015 - 2017) - Adtech - Go Developer 
+* **Switch Concepts Ltd.** (2012 - 2015) - Adtech - Senior Software Developer
+* **JDI Backup Ltd.** (2012 - 2012) - Web development - Mid-level Web Developer
+* **Alacrify Ltd.** (2009 - 2012)  - Web development - Junior Web Developer/Designer
 
 ## Education
 
