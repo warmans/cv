@@ -3,18 +3,17 @@ Stefan Warman :: Curriculum Vitae
 
 * **Date of Birth:** 1986
 * **Nationality:** British
-* **Current Location:** Bristol, UK
+* **Current Location:** Nottingham, UK
 * **Email:** stefan.warman [at] gmail.com
 * **GitHub:** warmans | http://warmans.github.io/cv/
 
-**tl;dr:** *After graduating from University in 2009 I worked in web development for several years, eventually moving to back-end/full-stack roles (ad-tech). For the past
-6 years I have been leading development of a large full-stack fin-tech application with Go and Angular.*
+**tl;dr:** *After graduating from University in 2009 I worked in web development for several years, eventually moving to back-end/full-stack roles (ad-tech). In my most recent roles I have been leading development of a large full-stack fin-tech application with Go and Angular, and subsiquently moved into a senior role maintaining european payment gateways at Form3.*
 
 **In Detail:**
 
 *Most Recent positions:* 
 
-*At FORM3 I work on european payment service gateways. My Role is primarily back-end development in Go, including general feature development and maintenance. Having been at the company a relatively short time my responsibilities are not very extensive at the time of writing.*
+*At FORM3 I work on European payment service gateways. My Role is primarily back-end development in Go, including general feature development and maintenance. In my time at FORM3 our largest project was to upgrade the SEPA gateways to support the latest ISO20022 maintenance release. This was somewhat challenging as we would have to support both new and old messages for several months, and the gateways had to be refactored significantly to allow for this to happen. Ultimately the project concluded without any incidents and happy customers as a result.*
 
 *At Fraugster I was the first member of a new team responsible for building out the front-end (TypeScript/Angular), back-end (Go) and
 infrastructure (K8s) for our "dashboard" project. The objective was to give customers analytics and configuration tools to introspect 
@@ -76,11 +75,11 @@ be particularly inspiring.*
 ## Personal
 
 Outside of work I love to write music and build things (software and physical). I have been into 3d printing and CAD for several years
-and have recently started learning CAM with CNC machines. I also enjoy electrical engineering, although I have a long road ahead in this
+and have recently started learning CAM with CNC routers. I also enjoy electrical engineering, although I have a long road ahead in this
 area. As a side-project I run a website that facilitates collaborative audio transcription for a tin-pot radio station that
 stopped broadcasting 20 years ago. This allows people to search and submit transcriptions in return for charitable donations
 to their chosen cause, and is considered an essential service for literally almost dozens of people.
 
 I just recently relocated back to the UK after spending 7 years living in Berlin, Germany. Berlin continues to be
-one of my favorite places in the world.
-
+one of my favorite places in the world. After initially moving back to the South West, we have since moved to the
+Midlands where we plan to continue to live for the forseeable future.
