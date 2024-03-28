@@ -26,10 +26,9 @@ I still spent the majority of my time working directly on the project - coding, 
 scrum process and so on. After a few years in this role I wanted to move back to development full
 time and changed my position to one with technical leadership aspects but mostly development responsibilities.*
 
-*At Travelaudience (Amadeus) I work primarily as a back-end Go developer on core ad-serving products. Additionally, I did a
-substantial amount of work to maintain and improve orchestration tools (writing Ansible roles, ensuring applications were
-packaged correctly etc). However, I didn't stay in this role very long as I didn't find the travel industry to 
-be particularly inspiring.*
+*At Travelaudience (Amadeus) I worked primarily as a back-end Go developer on core ad-serving products. Additionally performing a substantial amount of work to maintain and improve orchestration 
+tools (writing Ansible roles, ensuring applications were packaged correctly etc). However, 
+I didn't stay in this role very long as I didn't find the travel industry to be particularly inspiring.*
 
 ## Core Skills
 
