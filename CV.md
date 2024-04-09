@@ -5,7 +5,7 @@ Stefan Warman :: Curriculum Vitae
 * **Nationality:** British
 * **Current Location:** Nottingham, UK
 * **Email:** stefan.warman [at] gmail.com
-* **GitHub:** warmans | http://warmans.github.io/cv/
+* **GitHub:** [warmans](https://github.com/warmans) | http://warmans.github.io/cv/
 
 **tl;dr:** *After graduating from University in 2009 I worked in web development for several years, eventually moving to back-end/full-stack roles (ad-tech). In my most recent roles I have been leading development of a large full-stack fin-tech application with Go and Angular, and subsequently moved into a senior role maintaining european payment gateways at Form3.*
 
