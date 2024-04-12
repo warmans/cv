@@ -20,7 +20,7 @@ infrastructure (K8s) for our "dashboard" project. The objective was to give cust
 and configure their integration.
 This meant creating systems for processing time-series data, raw data storage/life-cycle management, tools for writing business rules
 and simulating them across historic data, user management and so on.*
-*Over the course of 6+ years I have continued to develop this project as well as taking on more management responsibilities,
+*Over the course of 6+ years I continued to develop this project as well as taking on more management responsibilities,
 eventually changing my role from full-stack developer to engineering manager. However, despite this role change
 I still spent the majority of my time working directly on the project - coding, debugging, designing new features, running the 
 scrum process and so on. After a few years in this role I wanted to move back to development full
@@ -34,7 +34,7 @@ I didn't stay in this role very long as I didn't find the travel industry to be 
 
 ### Languages
 
-* **Go** - 7+ years. The main language I use at work and for personal projects.
+* **Go** - 8+ years. The main language I use at work and for personal projects.
 * **JavaScript/TypeScript** - 10+ years JS 6+ years TypeScript. Primarily front-end work (Angular).
 * **PHP** - 5-6 years experience with an emphasis on OOP, reusable components and clean code. I'm no longer interested in developing with PHP.
 
@@ -49,9 +49,10 @@ I didn't stay in this role very long as I didn't find the travel industry to be 
 ### Transferable
 
 * **Programming** - Knowledgeable in design patterns and API design. Believer in software craftsmanship.
+* **Distributed Systems** - Many years experience building resilliant and performant distributed systems.
 * **CI/CD** - Experienced building pipelines for testing and delivery of software. Mostly GitLab CI.
 * **Testing** - Experienced in automated testing and continuous integration/delivery on the front and back-end. BDD trained. TDD trained.
-* **DevOps** - Experience in automated provisioning and deployment for production and development (Kubernetes, Ansible, Vagrant, AWS).
+* **Infrastructure** - Experience in automated provisioning and deployment for production and development infrastructure (Kubernetes, AWS, GCP).
 * **Monitoring** - Broad experience integrating systems such as Prometheus, Jaeger, Grafana and Sentry.
 * **Markup** - Many years working with HTML, XML, YAML, CSS, SCSS and so on.
 * **Version control** - Lots of Git. Some SVN.
