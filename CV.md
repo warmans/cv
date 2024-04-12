@@ -49,7 +49,7 @@ I didn't stay in this role very long as I didn't find the travel industry to be 
 ### Transferable
 
 * **Programming** - Knowledgeable in design patterns and API design. Believer in software craftsmanship.
-* **Distributed Systems** - Many years experience building resilliant and performant distributed systems.
+* **Distributed Systems** - Many years experience building resilient and performant distributed systems.
 * **CI/CD** - Experienced building pipelines for testing and delivery of software. Mostly GitLab CI.
 * **Testing** - Experienced in automated testing and continuous integration/delivery on the front and back-end. BDD trained. TDD trained.
 * **Infrastructure** - Experience in automated provisioning and deployment for production and development infrastructure (Kubernetes, AWS, GCP).
