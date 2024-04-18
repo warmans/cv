@@ -72,7 +72,7 @@ I didn't stay in this role very long as I didn't find the travel industry to be 
 ## Education
 
 * **BSc (Hons) Degree in Computing** (2006 - 2009) - (2.1) from Bournemouth University
-* **BTEC National Diploma Computing and GNVQ Computing** ) - (2004-2006) from Wiltshire College
+* **BTEC National Diploma Computing and GNVQ Computing** ) - (2004 - 2006) from Wiltshire College
 
 ## Personal
 
