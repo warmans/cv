@@ -39,3 +39,5 @@ Fintech
 refactored
 SEPA
 GCP
+Nosql
+microcontrollers
