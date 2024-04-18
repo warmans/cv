@@ -51,11 +51,11 @@ I didn't stay in this role very long as I didn't find the travel industry to be 
 
 * **Programming** - Knowledgeable in design patterns and API design. Believer in software craftsmanship.
 * **Distributed Systems** - Many years experience working with and building resilient, performant distributed systems.
-* **CI/CD** (Gitlab CI, Github Actions) - Experienced building pipelines for testing and delivery of software.
+* **CI/CD** (GitLab CI, GitHub Actions) - Experienced building pipelines for testing and delivery of software.
 * **Testing** - Experienced in automated testing and continuous integration/delivery on the front and back-end, including test-first approaches.
 * **Infrastructure** (Kubernetes, AWS, GCP) - Experience in automated provisioning and deployment for production and development infrastructure .
 * **Monitoring** (Prometheus, Jaeger, Grafana and Sentry) - Broad experience integrating observability systems.
-* **Markup** (HTML, XML, YAML, CSS, SCSS etc.) - Many years working with web markup languages, and in particular XML due to its prevalance in SEPA payment schemes.
+* **Markup** (HTML, XML, YAML, CSS, SCSS etc.) - Many years working with web markup languages, and in particular XML due to its prevalence in SEPA payment schemes.
 * **Version control** (Git) - Lots of Git.
 * **Linux** - Competent working with Linux servers (Debian and CentOS mainly).
 
