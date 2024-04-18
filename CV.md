@@ -56,7 +56,7 @@ I didn't stay in this role very long as I didn't find the travel industry to be 
 * **Infrastructure** (Kubernetes, AWS, GCP) - Experience in automated provisioning and deployment for production and development infrastructure .
 * **Monitoring** (Prometheus, Jaeger, Grafana and Sentry) - Broad experience integrating observability systems.
 * **Markup** (HTML, XML, YAML, CSS, SCSS etc.) - Many years working with web markup languages, and in particular XML due to its prevalence in SEPA payment schemes.
-* **AI** (OpenAI, AssemblyAI) - Increasingly I've been using AI to solve problems related to natural langage processing (e.g. transcription, deriving meaning from, or categorising unstructured data).
+* **AI** (OpenAI, AssemblyAI) - Increasingly I've been using AI to solve problems related to natural language processing (e.g. transcription, deriving meaning from, or categorising unstructured data).
 * **Version control** (Git) - Lots of Git.
 * **Linux** - Competent working with Linux servers (Debian and CentOS mainly).
 
