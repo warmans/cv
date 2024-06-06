@@ -1,1 +1,1 @@
-./cv-html/content/index\.md$
+cv-html/content/.*\.md$
