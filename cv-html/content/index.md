@@ -9,14 +9,16 @@ Stefan Warman :: Curriculum Vitae
 
 ## {{< icon bi-exclamation-circle>}} Professional Summary
 
-tl;dr: **After graduating from University in 2009 I worked in web development for several years, eventually moving to back-end/full-stack roles (ad-tech). In my most recent roles I have been leading development of a large full-stack fin-tech application with Go and Angular, and subsequently moved into a senior Go developer role maintaining european payment gateways at Form3.**
+**tl;dr:** *After graduating from University in 2009 I worked in web development for several years, eventually moving to back-end/full-stack roles (ad-tech). In my most recent roles I 
+have been leading development of a large full-stack fin-tech application with Go and Angular, and subsequently moved into a senior Go developer role maintaining european payment gateways at Form3.*
 
-*Most Recent positions:* 
+**Most Recent positions:** 
 
-At FORM3 I work on European payment service gateways. My Role is primarily back-end development in Go, including general feature development, maintenance and debugging issues. 
-This system was a distributed payment processing platform using a lot of queues, APIs and relational databases.
+At FORM3 I work on European payment service gateways. My Role was primarily back-end development in Go, including general feature development, maintenance and debugging issues. 
+This system was a distributed payment processing platform using queues, APIs and relational databases.
 In my time at FORM3 our largest project was to upgrade the SEPA gateways to support the latest ISO20022 maintenance release. This was somewhat challenging
 as we would have to support both new and old message formats for several months, and the gateways had to be refactored significantly to allow for this to happen. Ultimately the project concluded without any incidents.
+After just over a year I was affected by a substantial downsizing of the european payments team and accepted redundancy of my position.
 
 At Fraugster I was the first member of a new team responsible for building out the front-end (TypeScript/Angular), back-end (Go) and
 infrastructure (K8s) for our "dashboard" project. The objective was to give customers analytics and configuration tools to introspect 
@@ -28,6 +30,7 @@ Over the course of 6+ years I continued to develop this project as well as takin
 eventually moving from full-stack developer to engineering manager. However, despite this role change
 I still spent the majority of my time working directly on the project - coding, debugging, designing new features, running the 
 scrum process and so on. After a few years in management I moved back into a tech-lead role as I felt this was a better fit for my skills and aspirations.
+Unfortunately Fraugster did not survive the post-covid funding drought and went into administration, causing me to move on.
 
 At Travelaudience (Amadeus) I worked primarily as a back-end Go developer on core ad-serving products. Additionally performing a substantial amount of work to maintain and improve orchestration 
 tools (writing Ansible roles, ensuring applications were packaged correctly etc). However, 
@@ -64,7 +67,7 @@ I didn't stay in this role very long as I didn't find the travel industry to be 
 
 ## {{< icon bi-briefcase>}} Employment History
 
-* **FORM3 Ltd.** (2023 - Present) - Fintech - Senior Software Engineer
+* **FORM3 Ltd.** (2023 - 2024) - Fintech - Senior Software Engineer
 * **Fraugster GmbH** (2017 - 2023) - Fintech - Tech Lead & Full Stack Developer
 * **Travel Audience GmbH** (2015 - 2017) - Adtech - Go Developer 
 * **Switch Concepts Ltd.** (2012 - 2015) - Adtech - Senior Software Developer
