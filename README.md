@@ -1,1 +1,3 @@
-cv-html/content/index.md
+# My CV 
+
+See the web version here: https://warmans.github.io/cv/
