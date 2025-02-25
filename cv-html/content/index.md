@@ -11,13 +11,13 @@ Stefan Warman :: Curriculum Vitae
 
 **tl;dr:** *After graduating from University in 2009 I worked in web development for several years, eventually moving to
 back-end/full-stack (ad-tech). I worked for many years leading development of a large full-stack
-fin-tech application with Go and Angular, and later moved into a Go developer position maintaining european
+fintech application with Go and Angular, and later moved into a Go developer position maintaining european
 payment gateways at Form3. After leaving Form3 I transitioned to my current position at Circuit, doing back-end Typescript development,
 having learned the language in my time as a full-stack developer.*
 
 **Most Recent positions:** 
 
-At Circuit I work on the backend of the Route Planner and Teams apps. This involves Typescript/Node.js development, 
+At Circuit, I work on the back-end of the Route Planner and Teams applications. This involves Typescript/Node.js development, 
 debugging issues, integrating external systems and some cloud/GCP infrastructure work. Circuit is a route planner
 app used by a large number of drivers globally. Our objective is to save drivers time by producing highly optimised 
 routes for their deliveries. We also support dispatchers with tools to distribute routes between drivers and so on. 
