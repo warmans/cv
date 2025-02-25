@@ -41,3 +41,4 @@ SEPA
 GCP
 Nosql
 microcontrollers
+Node.js

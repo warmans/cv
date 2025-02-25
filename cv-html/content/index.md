@@ -9,16 +9,28 @@ Stefan Warman :: Curriculum Vitae
 
 ## {{< icon bi-exclamation-circle>}} Professional Summary
 
-**tl;dr:** *After graduating from University in 2009 I worked in web development for several years, eventually moving to back-end/full-stack roles (ad-tech). In my most recent roles I 
-have been leading development of a large full-stack fin-tech application with Go and Angular, and subsequently moved into a senior Go developer role maintaining european payment gateways at Form3.*
+**tl;dr:** *After graduating from University in 2009 I worked in web development for several years, eventually moving to
+back-end/full-stack (ad-tech). I worked for many years leading development of a large full-stack
+fin-tech application with Go and Angular, and later moved into a Go developer position maintaining european
+payment gateways at Form3. After leaving Form3 I transitioned to my current position at Circuit, doing back-end Typescript development,
+having learned the language in my time as a full-stack developer.*
 
 **Most Recent positions:** 
 
-At FORM3 I work on European payment service gateways. My Role was primarily back-end development in Go, including general feature development, maintenance and debugging issues. 
+At Circuit I work on the backend of the Route Planner and Teams apps. This involves Typescript/Node.js development, 
+debugging issues, integrating external systems and some cloud/GCP infrastructure work. Circuit is a route planner
+app used by a large number of drivers globally. Our objective is to save drivers time by producing highly optimised 
+routes for their deliveries. We also support dispatchers with tools to distribute routes between drivers and so on. 
+An example of the sort of project I'd be working on currently is improving delivery estimates by enriching our 
+data with third party sources, in view of reducing failed deliveries.
+
+At FORM3 I worked on European payment service gateways. My Role was primarily back-end development in Go,
+including general feature development, maintenance and debugging issues. 
 This system was a distributed payment processing platform using queues, APIs and relational databases.
 In my time at FORM3 our largest project was to upgrade the SEPA gateways to support the latest ISO20022 maintenance release. This was somewhat challenging
-as we would have to support both new and old message formats for several months, and the gateways had to be refactored significantly to allow for this to happen. Ultimately the project concluded without any incidents.
-After just over a year I was affected by a substantial downsizing of the european payments team and accepted redundancy of my position.
+as we would have to support both new and old message formats for several months, and the gateways had to be refactored
+significantly to allow for this to happen. Ultimately the project concluded without any incidents.
+After just over a year I was affected by a substantial downsizing of the European payments team and accepted redundancy of my position.
 
 At Fraugster I was the first member of a new team responsible for building out the front-end (TypeScript/Angular), back-end (Go) and
 infrastructure (K8s) for our "dashboard" project. The objective was to give customers analytics and configuration tools to introspect 
@@ -32,16 +44,12 @@ I still spent the majority of my time working directly on the project - coding, 
 scrum process and so on. After a few years in management I moved back into a tech-lead role as I felt this was a better fit for my skills and aspirations.
 Unfortunately Fraugster did not survive the post-covid funding drought and went into administration, causing me to move on.
 
-At Travelaudience (Amadeus) I worked primarily as a back-end Go developer on core ad-serving products. Additionally performing a substantial amount of work to maintain and improve orchestration 
-tools (writing Ansible roles, ensuring applications were packaged correctly etc). However, 
-I didn't stay in this role very long as I didn't find the travel industry to be particularly inspiring.
-
 ## {{< icon bi-stars>}} Core Skills
 
 #### {{< icon bi-code>}} Languages
 
-* **Go** - 8+ years. The main language I use at work and for personal projects.
-* **JavaScript/TypeScript** - 10+ years JS 6+ years TypeScript. Primarily front-end work (Angular).
+* **Go** - 9+ years. My favorite language to work with.
+* **JavaScript/TypeScript** - 10+ years JS, 8+ years TypeScript. Both front-end (Angular) and back-end.
 * **PHP** - 5-6 years experience with an emphasis on OOP, reusable components and clean code. I'm no longer interested in developing with PHP as I feel Go solves many of the same problems more effectively.
 
 #### {{< icon bi-plug>}} Systems
@@ -54,7 +62,7 @@ I didn't stay in this role very long as I didn't find the travel industry to be 
 
 #### {{< icon bi-terminal>}} Transferable
 
-* **Programming** - Knowledgeable in design patterns and API design. Believer in software craftsmanship.
+* **Programming** - Knowledgeable in design patterns and API design.
 * **Distributed Systems** - Many years experience working with and building resilient, performant distributed systems.
 * **CI/CD** (GitLab CI, GitHub Actions) - Experienced building pipelines for testing and delivery of software.
 * **Testing** - Experienced in automated testing and continuous integration/delivery on the front and back-end, including test-first approaches.
@@ -67,6 +75,7 @@ I didn't stay in this role very long as I didn't find the travel industry to be 
 
 ## {{< icon bi-briefcase>}} Employment History
 
+* **Circuit** (2024 - 2025) - Logistics - Senior Software Engineer
 * **FORM3 Ltd.** (2023 - 2024) - Fintech - Senior Software Engineer
 * **Fraugster GmbH** (2017 - 2023) - Fintech - Tech Lead & Full Stack Developer
 * **Travel Audience GmbH** (2015 - 2017) - Adtech - Go Developer 
@@ -89,4 +98,4 @@ to their chosen cause, and is considered an essential service for literally almo
 
 I just recently relocated back to the UK after spending 7 years living in Berlin, Germany. Berlin continues to be
 one of my favorite places in the world. After initially moving back to the South West, we have since moved to the
-Midlands where we plan to continue to live for the forseeable future.
+Midlands where we plan to continue to live for the foreseeable future.
