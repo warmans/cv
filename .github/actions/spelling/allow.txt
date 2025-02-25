@@ -36,6 +36,7 @@ website
 Debian
 Adtech
 Fintech
+fintech
 refactored
 SEPA
 GCP
